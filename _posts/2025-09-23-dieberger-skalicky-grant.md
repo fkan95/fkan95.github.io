@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Dieberger-Skalicky grant award ceremony"
 date: 2025-10-23
 categories:
   - award
