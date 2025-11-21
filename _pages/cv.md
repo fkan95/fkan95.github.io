@@ -7,24 +7,32 @@ author_profile: true
 
 ## Education
 
-**PhD in Theoretical Physics**, *TU Wien* — since 10/2022  
-**Visiting Graduate Researcher**, *Institute for Quantum Computing/University of Waterloo, Lütkenhaus Group* — 2018-2021
-**MSc in Technical Mathematics**, *TU Wien* — 10/2020-11/2022
-**MSc in Technical Physics**, *TU Wien* — 10/2018-10/2021
+{% for item in site.data.cv.education %}
+**{{ item.degree }}**, *{{ item.institution }}* — {{ item.years }}  
+{% endfor %}
 
 ## Positions
 
- 
-**PhD Candidate**, *Quantum Information Theory Lab* — 2019–2024
+{% for pos in site.data.cv.positions %}
+**{{ pos.title }}**, *{{ pos.institution }}* — {{ pos.years }}  
+{% endfor %}
 
 ## Skills
 
-- Quantum Key Distribution (QKD): Expert  
-- Matlab / Python: Advanced  
-
+{% for skill in site.data.cv.skills %}
+- **{{ skill.name }}**: {{ skill.level }}  
+{% endfor %}
 
 ## Honors & Awards
 
-- Dieberger-Skalicky Grant
+{% for h in site.data.cv.honors %}
+- **{{ h.title }}**, {{ h.issuer }}, {{ h.year }}  
+{% endfor %}
 
 ## Selected Publications
+
+{% for pub in site.data.cv.publications %}
+- [{{ pub.title }}]({{ pub.url }}) — *{{ pub.journal }}* ({{ pub.year }})  
+{% endfor %}
+
+See the full list of publications on my [Publications page](/publications/).

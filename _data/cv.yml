@@ -1,0 +1,74 @@
+education:
+  - degree: "PhD in Technical Physics"
+    institution: "TU Wien"
+    years: "10/2022–now"
+  - degree: "MSc in Technical Mathematics"
+    institution: "TU Wien"
+    years: "10/2020–10/2022"
+    thesis: "Finite-Size Security Proof for Discrete-Modulated CV-QKD Protocols"
+    advisor: "Prof. Dr. Norbert Lütkenhaus"
+
+  - degree: "Visiting Graduate Researcher"
+    institution: "Institute for Quantum Computing/University of Waterloo"
+    years: "01/2022–08/2022"
+    comment: "Research in the OQCT Group of Prof. Dr. Norbert Lütkenhaus."
+
+  - degree: "MSc in Technical Physics"
+    institution: "TU Wien"
+    years: "10/2018–10/2021"
+    thesis: Postselection Strategies for CV-QKD Protocols with Phase-Shift Keying Modulation
+    advisor: "Priv. Doz. Martin Suda and Dr. Christoph Pacher"
+  - degree: "BSc in Technical Mathematics"
+    institution: "TU Wien"
+    years: "10/2016–07/2020"
+    thesis: "Mathematical Analysis of an Optimisation Problem arising in Quantum Communication"
+    advisor: "Prof. Dr. Kevin Sturm"
+  - degree: "BSc in Technical Physics"
+    institution: "TU Wien"
+    years: "10/2014–05/2018"
+    thesis: "Examination and Animation of a Quantum Bouncing Ball in Phase Space"
+    advisor: "Prof. Dr. Hartmut Abele"
+
+  - degree: "High-School Diploma"
+    institution: "HTBLA Eisenstadt"
+    years: "09/2009–06/2014"
+
+
+positions:
+  - title: "PhD Candidate"
+    institution: "TU Wien, Atominstitut"
+    years: "10/2022–now"
+  - title: "Scientist"
+    institution: "AIT - Austrian Institute of Technology"
+    years: "10/2025-present"
+  - title: "Junior Scientist"
+    institution: "AIT - Austrian Institute of Technology"
+    years: "10/2022–09/2025"
+  - title: "Graduate Researcher"
+    institution: "Institute for Quantum Computing/University of Waterloo"
+    years: "01/2022–08/2022"
+
+skills:
+  - name: "Quantum Key Distribution (QKD)"
+    level: "Expert"
+  - name: "Matlab / Python"
+    level: "Advanced"
+  - name: "Data Analysis"
+    level: "Advanced"
+
+honors:
+  - title: "Dieberger-Skalicky Grant"
+    year: "2025"
+    issuer: "Dieberger-Skalicky Foundation"
+
+publications:
+  - title: "Title of My Paper"
+    journal: "Physical Review Letters"
+    year: "2023"
+    url: "https://doi.org/..."
+  - title: "Another Paper"
+    journal: "New Journal of Physics"
+    year: "2022"
+    url: "https://doi.org/..."
+
+For a full list of publications, see my [Publications page](/publications/).
