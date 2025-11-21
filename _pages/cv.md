@@ -1,8 +1,10 @@
 ---
 layout: single
+classes: wide
 title: "CV"
 permalink: /cv/
 author_profile: false   # optional: hide sidebar for full-width CV
+classes: page--cv
 ---
 
 # Curriculum Vitae
@@ -24,15 +26,6 @@ author_profile: false   # optional: hide sidebar for full-width CV
   {% for pos in site.data.cv.positions %}
     <div class="cv-entry">
       <strong>{{ pos.title }}</strong>, *{{ pos.institution }}* — {{ pos.years }}
-    </div>
-  {% endfor %}
-</div>
-
-<div class="cv-box">
-  <h2>Skills</h2>
-  {% for skill in site.data.cv.skills %}
-    <div class="cv-entry">
-      - <strong>{{ skill.name }}</strong>: {{ skill.level }}
     </div>
   {% endfor %}
 </div>
