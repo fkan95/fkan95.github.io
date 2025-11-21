@@ -2,7 +2,7 @@
 layout: single
 title: "Curriculum Vitae"
 permalink: /cv/
-author_profile: false   # optional: hide sidebar for full-width CV
+author_profile: true   # optional: hide sidebar for full-width CV
 classes: page--cv
 ---
 
