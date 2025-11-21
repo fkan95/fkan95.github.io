@@ -56,28 +56,17 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-nav:
-  - title: "Home"
-    url: /
-  - title: "News"
-    url: /news/
-  - title: "CV"
-    url: /cv/
-  - title: "Publications"
-    url: /publications/
-  - title: "Outreach"
-    url: /outreach/
 
 author:
   name   : "Florian Kanitschar"
-  avatar : "/assets/images/bio-photoFK.jpg"
+  avatar : "/assets/images/bio-photo_FK.jpg"
   bio    : "Hi, my name is Florian. I am a theoretical physicist working in quantum information and quantum communication."
   links:
     - label: "Orcid"
-      icon: "fas fa-orcid"
+      icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0002-9638-5691"
     - label: "Google Scholar"
-      icon: "fas fa-graduat-cap"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=1ZcYWY8AAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
