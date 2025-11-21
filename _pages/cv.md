@@ -1,13 +1,11 @@
 ---
 layout: single
 classes: wide
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: false   # optional: hide sidebar for full-width CV
 classes: page--cv
 ---
-
-# Curriculum Vitae
 
 <div class="cv-box">
   <h2>Education</h2>
