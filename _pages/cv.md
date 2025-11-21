@@ -1,16 +1,17 @@
 ---
 layout: single
-title: "Curriculum Vitae"
+title: "CV"
 permalink: /cv/
-author_profile: true   # optional: hide sidebar for full-width CV
-classes: page--cv
+author_profile: false   # optional: hide sidebar for full-width CV
 ---
+
+# Curriculum Vitae
 
 <div class="cv-box">
   <h2>Education</h2>
   {% for item in site.data.cv.education %}
     <div class="cv-entry">
-      <strong>{{ item.degree }}</strong>, {{ item.institution }} — {{ item.years }}
+      <strong>{{ item.degree }}</strong>, *{{ item.institution }}* — {{ item.years }}
       {% if item.thesis %}<br><em>Thesis:</em> {{ item.thesis }}{% endif %}
       {% if item.advisor %}<br><em>Advisor:</em> {{ item.advisor }}{% endif %}
       {% if item.comment %}<br><em>Comment:</em> {{ item.comment }}{% endif %}
@@ -22,7 +23,7 @@ classes: page--cv
   <h2>Positions</h2>
   {% for pos in site.data.cv.positions %}
     <div class="cv-entry">
-      <strong>{{ pos.title }}</strong>, {{ pos.institution }} — {{ pos.years }}
+      <strong>{{ pos.title }}</strong>, *{{ pos.institution }}* — {{ pos.years }}
     </div>
   {% endfor %}
 </div>
