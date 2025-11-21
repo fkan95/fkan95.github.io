@@ -76,16 +76,10 @@ author:
       url: "https://www.linkedin.com/in/florian-kanitschar/"
 
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  
+sass:
+  style: compressed
+
 
 defaults:
   # _posts
