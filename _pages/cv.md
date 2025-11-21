@@ -2,37 +2,49 @@
 layout: single
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false   # optional: hide sidebar if using full-width CV
 ---
 
-## Education
+<div class="cv-box">
+  <h2>Education</h2>
+  {% for item in site.data.cv.education %}
+    <div class="cv-entry">
+      <strong>{{ item.degree }}</strong>, *{{ item.institution }}* — {{ item.years }}  
+      {% if item.thesis %}<br><em>Thesis:</em> {{ item.thesis }}{% endif %}  
+      {% if item.group %}<br><em>Group:</em> {{ item.group }}{% endif %}
+    </div>
+  {% endfor %}
+</div>
 
-{% for item in site.data.cv.education %}
-**{{ item.degree }}**, *{{ item.institution }}* — {{ item.years }}  
-{% endfor %}
+<div class="cv-box">
+  <h2>Positions</h2>
+  {% for pos in site.data.cv.positions %}
+    <div class="cv-entry">
+      <strong>{{ pos.title }}</strong>, *{{ pos.institution }}* — {{ pos.years }}
+    </div>
+  {% endfor %}
+</div>
 
-## Positions
+<div class="cv-box">
+  <h2>Skills</h2>
+  {% for skill in site.data.cv.skills %}
+    <div class="cv-entry">
+      - **{{ skill.name }}**: {{ skill.level }}
+    </div>
+  {% endfor %}
+</div>
 
-{% for pos in site.data.cv.positions %}
-**{{ pos.title }}**, *{{ pos.institution }}* — {{ pos.years }}  
-{% endfor %}
+<div class="cv-box">
+  <h2>Honors & Awards</h2>
+  {% for h in site.data.cv.honors %}
+    <div class="cv-entry">
+      - **{{ h.title }}**, {{ h.issuer }}, {{ h.year }}
+    </div>
+  {% endfor %}
+</div>
 
-## Skills
-
-{% for skill in site.data.cv.skills %}
-- **{{ skill.name }}**: {{ skill.level }}  
-{% endfor %}
-
-## Honors & Awards
-
-{% for h in site.data.cv.honors %}
-- **{{ h.title }}**, {{ h.issuer }}, {{ h.year }}  
-{% endfor %}
-
-## Selected Publications
-
-{% for pub in site.data.cv.publications %}
-- [{{ pub.title }}]({{ pub.url }}) — *{{ pub.journal }}* ({{ pub.year }})  
-{% endfor %}
-
-See the full list of publications on my [Publications page](/publications/).
+<div class="cv-box">
+  <h2>Publications</h2>
+  <p>See my <a href="/publications/">Publications page</a> for the full list.</p>
+  See the full list of publications on my [Publications page](/publications/).
+</div>
