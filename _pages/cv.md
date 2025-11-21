@@ -26,15 +26,6 @@ author_profile: false   # optional: hide sidebar if using full-width CV
 </div>
 
 <div class="cv-box">
-  <h2>Skills</h2>
-  {% for skill in site.data.cv.skills %}
-    <div class="cv-entry">
-      - **{{ skill.name }}**: {{ skill.level }}
-    </div>
-  {% endfor %}
-</div>
-
-<div class="cv-box">
   <h2>Honors & Awards</h2>
   {% for h in site.data.cv.honors %}
     <div class="cv-entry">
