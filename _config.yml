@@ -59,21 +59,21 @@ plugins:
 
 author:
   name   : "Florian Kanitschar"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/bio-photoFK.jpg"
+  bio    : "Hi, my name is Florian. I am a theoretical physicist working in quantum information and quantum communication."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Orcid"
+      icon: "fas fa-orcid"
+      url: "https://orcid.org/0000-0002-9638-5691"
+    - label: "Google Scholar"
+      icon: "fas fa-graduat-cap"
+      url: "https://scholar.google.com/citations?hl=en&user=1ZcYWY8AAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/florian-kanitschar/"
 
 footer:
   links:
