@@ -112,19 +112,19 @@ honors:
     issuer: "Copenhagen, Denmark"
 
 publications:
-- year: 2023
+  - year: 2023
     title: "Finite-size Security for Discrete-Modulated Continuous-Variable Quantum Key Distribution Protocols"
     authors: "<strong>F. Kanitschar</strong>, I. George, J. Lin, T. Upadhyaya, and N. Lütkenhaus"
     journal: "PRX Quantum 4 (4), 040306"
     url: "https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.040306"
 
-- year: 2025
+  - year: 2025
     title: "Practical Framework for Analyzing High-Dimensional Quantum Key Distribution Setups"
     authors: "<strong>F. Kanitschar</strong>, and M. Huber"
     journal: "Physical Review Letters 135 (1), 010802"
     url: "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.135.010802"
 
- - year: 2025
+  - year: 2025
     title: "Experimental composable key distribution using discrete-modulated continuous variable quantum cryptography"
     authors: "A.A.E. Hajomer*, <strong>F. Kanitschar*</strong>, N. Jain, M. Hentschel, R. Zhang,  N. Lütkenhaus, U.L. Andersen, C. Pacher, and T. Gehring"
     journal: "Light: Science & Applications 14 (1), 255"
