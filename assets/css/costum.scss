@@ -1,0 +1,32 @@
+/* ============================================
+   Global typography overrides for the entire site
+   ============================================ */
+
+/* Set a global base font size (affects all rem units) */
+html {
+  font-size: 17px;   /* Change this value to your preference */
+}
+
+/* Optional: global line height */
+body {
+  line-height: 1.6;
+}
+
+/* Optional: fine-tune heading sizes (uncomment to activate) */
+/*
+h1 { font-size: 2.1rem; }
+h2 { font-size: 1.7rem; }
+h3 { font-size: 1.35rem; }
+h4 { font-size: 1.1rem; }
+*/
+
+/* Optional: CV-specific tweaks (safe to include) */
+/*
+.cv-left {
+  font-size: 0.95rem;
+}
+
+.cv-right {
+  font-size: 0.95rem;
+}
+*/

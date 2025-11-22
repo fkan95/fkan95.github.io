@@ -80,6 +80,12 @@ footer:
 sass:
   style: compressed
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      css:
+        - "/assets/css/custom.css"
 
 defaults:
   # _posts

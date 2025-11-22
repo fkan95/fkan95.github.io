@@ -120,5 +120,5 @@ classes: wide page--cv
     </div>
   {% endfor %}
 
-  <p>Full list on the <a href="/publications/">Publications page</a>.</p>
+  <p>You can find a full list on the <a href="/publications/">Publications page</a>.</p>
 </div>

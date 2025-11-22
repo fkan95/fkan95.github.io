@@ -81,10 +81,21 @@ theses:
 
 
 talks:
+
+  - year: 2023
+    title: "Finite-Size Security Proof for DM CV-QKD Protocols"
+    event: "VCQ Complex Quantum Systems Seminar"
+    location: "Vienna, Austria"
+
   - year: 2023
     title: "Bounding Dimensions by Statistical Testing"
     event: "Security Proof Workshop"
     location: "University of Waterloo, Waterloo, Canada"
+
+  - year: 2024
+    title "Multi-User Quantum Key Distribution with Discrete Modulated Continuous Variables"
+    event: "VCQ Colloquium"
+    location: "Vienna, Austria"
 
   - year: 2024
     title: "Numerical Security Proof Framework extended to Multi-User DM CV-QKD"
@@ -115,6 +126,8 @@ talks:
     title: "A Framework for the Security Analysis of Practical High-Dimensional QKD Setups"
     event: "QCrypt 2025"
     location: "Sanya, Hainan, PR China"
+
+
 
 
 test_papers:
