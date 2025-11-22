@@ -6,6 +6,26 @@ author_profile: false
 classes: wide page--cv
 ---
 
+<!-- ======================== POSITIONS ======================== -->
+<div class="cv-box">
+  <h2>Positions</h2>
+  {% for pos in site.data.cv.positions %}
+    <div class="cv-entry-grid">
+
+      <div class="cv-entry-year">
+        {{ pos.years }}
+      </div>
+
+      <div class="cv-entry-details">
+        <strong>{{ pos.title }}</strong><br>
+        <em>{{ pos.institution }}</em>
+        {% if pos.comment %}<br>{{ pos.comment }}{% endif %}
+      </div>
+
+    </div>
+  {% endfor %}
+</div>
+
 
 <!-- ======================== EDUCATION ======================== -->
 <div class="cv-box">
@@ -31,25 +51,6 @@ classes: wide page--cv
   {% endfor %}
 </div>
 
-<!-- ======================== POSITIONS ======================== -->
-<div class="cv-box">
-  <h2>Positions</h2>
-  {% for pos in site.data.cv.positions %}
-    <div class="cv-entry-grid">
-
-      <div class="cv-entry-year">
-        {{ pos.years }}
-      </div>
-
-      <div class="cv-entry-details">
-        <strong>{{ pos.title }}</strong><br>
-        <em>{{ pos.institution }}</em>
-        {% if pos.comment %}<br>{{ pos.comment }}{% endif %}
-      </div>
-
-    </div>
-  {% endfor %}
-</div>
 
 <!-- ======================== HONORS ======================== -->
 <div class="cv-box">
