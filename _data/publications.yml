@@ -19,7 +19,7 @@ peer_reviewed:
 
   - year: 2024
     title: "Harnessing high-dimensional temporal entanglement using limited interferometric setups"
-    authors: "<strong>F. Kanitschar</strong>, A. Bergmayr-Mann, M. Pivoluska, and M. Huber"
+    authors: "<strong>F. Kanitschar*</strong>, A. Bergmayr-Mann*, M. Pivoluska, and M. Huber"
     journal: "Physical Review Applied 22 (5), 054054"
     url: "https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.22.054054"
 
@@ -31,7 +31,7 @@ peer_reviewed:
 
   - year: 2025
     title: "Experimental composable key distribution using discrete-modulated continuous variable quantum cryptography"
-    authors: "A.A.E. Hajomer, <strong>F. Kanitschar</strong>, N. Jain, M. Hentschel, R. Zhang,  N. Lütkenhaus, U.L. Andersen, C. Pacher, and T. Gehring"
+    authors: "A.A.E. Hajomer*, <strong>F. Kanitschar*</strong>, N. Jain, M. Hentschel, R. Zhang,  N. Lütkenhaus, U.L. Andersen, C. Pacher, and T. Gehring"
     journal: "Light: Science & Applications 14 (1), 255"
     url: "https://www.nature.com/articles/s41377-025-01924-9"
 
