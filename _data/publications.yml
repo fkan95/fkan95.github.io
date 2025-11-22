@@ -1,0 +1,25 @@
+peer_reviewed:
+  - year: 2022
+    title: "Optimizing Continuous-Variable Quantum Key Distribution with Phase-Shift Keying Modulation and Postselection"
+    authors: "F. Kanitschar, and C. Pacher"
+    journal: "Physical Review Applied 18 (3), 034073"
+    url: "https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.034073"
+
+  - year: 2023
+    title: "Lipschitz continuity of quantum-classical conditional entropies with respect to angular distance and related properties"
+    authors: "M.L. Liu, F. Kanitschar, A. Arquandt, and E.Y.Z. Tan"
+    journal: "Physical Review A 107 (2), 022426"
+    url: "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.022426"
+
+preprints:
+  - year: 2024
+    title: "Composable free-space continuous-variable quantum key distribution using discrete modulation"
+    authors: "K. Jaksch, T. Dirmeier, Y. Weiser, S. Richter, Ö. Bayraktar, B. Hacker, C. Rösler, I. Khan, S. Petscharning, T. Grafenauer, M. Hentschel, B. Ömer, C. Pacher, F. Kanitschar, T. Upadhyaya, J. Lin, N. Lütkenhaus, G. Leuchs, and C. Marquardt"
+    arxiv: "2410.12915"
+    url: "https://arxiv.org/abs/2410.12915"
+
+talks:
+  - year: 2023
+    title: "Bounding Dimensions by Statistical Testing"
+    event: "Security Proof Workshop"
+    location: "University of Waterloo, Waterloo, Canada"
