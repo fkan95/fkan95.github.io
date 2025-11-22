@@ -45,7 +45,7 @@ preprints:
   - year: 2024
     title: "Composable Continuous-Variable Multi-User QKD with Discrete Modulation: Theory and Implementation"
     authors: "<strong>F. Kanitschar</strong>, A. A. E. Hajomer, M. Hentschel, T. Gehring, and C. Pacher"
-    arXiv: "2406:14610 [quant-ph]"
+    arxiv: "2406:14610 [quant-ph]"
     url: "https://arxiv.org/abs/2406.14610"
 
   - year: 2024
@@ -57,13 +57,13 @@ preprints:
   - year: 2025
     title: "Gigabit-rate quantum key distribution on integrated photonic chips"
     authors: "S. Q. Ng, <strong>F. Kanitschar</strong>, G. Zhang, and C. Wang"
-    arXiv: "2504:08298 [quant-ph]"
+    arxiv: "2504:08298 [quant-ph]"
     url: "https://arxiv.org/abs/2504.08298"
 
   - year: 2025
     title: "Continuous-Variable Quantum Communication"
     authors: "V.C. Usenko,  A. Acín, R. Alléaume, U.L. Andersen, E. Diamanti, T. Gehring, A.A.E. Hajomer, <strong>F. Kanitschar</strong>, C. Pacher, S. Pirandola, and V. Pruneri"
-    arXiv: "2501.12801 [quant-ph]"
+    arxiv: "2501.12801 [quant-ph]"
     url: "https://arxiv.org/abs/2501.12801"
 
 
@@ -115,3 +115,10 @@ talks:
     title: "A Framework for the Security Analysis of Practical High-Dimensional QKD Setups"
     event: "QCrypt 2025"
     location: "Sanya, Hainan, PR China"
+
+
+test_papers:
+  - year: 2020
+    title: "Old Paper"
+  - year: 2022
+    title: "New Paper"
