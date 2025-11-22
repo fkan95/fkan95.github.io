@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Florian Kanitschar"
   avatar : "/assets/images/bio-photo_FK.jpg"
-  bio    : "Hi, my name is Florian. I am a theoretical physicist working in quantum information and quantum communication."
+  bio    : ""
   links:
     - label: "Orcid"
       icon: "fab fa-orcid"
