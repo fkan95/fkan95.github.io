@@ -92,3 +92,43 @@
 .cv-right {
   line-height: 1.35;
 }
+
+
+.outreach-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+}
+
+.year-group {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5em;
+  margin-bottom: 2em;
+}
+
+.outreach-card {
+  background: #f9f9f9;
+  border-radius: 8px;
+  padding: 1.5em;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+  transition: transform 0.2s;
+}
+
+.outreach-card:hover {
+  transform: translateY(-3px);
+}
+
+.outreach-card h3 {
+  margin-top: 0;
+}
+
+.button {
+  display: inline-block;
+  margin-top: 0.5em;
+  color: #fff;
+  background-color: #007acc;
+  padding: 0.4em 0.8em;
+  border-radius: 4px;
+  text-decoration: none;
+}
