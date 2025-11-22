@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-<div style="font-size: 0.9rem; line-height: 1.5;">
+<div style="font-size: 0.7rem; line-height: 1.3;">
 Hi, my name is Florian!
 
 I am a theoretical physicist working on quantum communication and quantum information. I am part of the [QuIT](https://www.quitphysics.info/) group in the Theory Division at the Atominstitute, TU Wien, and the Quantum Group at AIT - Austrian Institute of Technology. My research focuses on Quantum Key Distribution (QKD), particularly continuous-variable and high-dimensional QKD, as well as various other topics in quantum information theory, such as (high-dimensional) entanglement.  
