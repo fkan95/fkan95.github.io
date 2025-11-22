@@ -5,7 +5,7 @@ education:
     thesis: "Quantum Communication beyond Qubits"
     advisor: "Prof. Dr. Marcus Huber"
 
-  - degree: "MSc in Technical Mathematics"
+  - degree: "Dipl.-Ing. (MSc equivalent) in Technical Mathematics"
     institution: "TU Wien"
     years: "10/2020 - 10/2022"
     thesis: "Finite-Size Security Proof for Discrete-Modulated CV-QKD Protocols"
@@ -17,7 +17,7 @@ education:
     years: "01/2022 - 08/2022"
     comment: "Research in the OQCT Group of Prof. Dr. Norbert Lütkenhaus."
 
-  - degree: "MSc in Technical Physics"
+  - degree: "Dipl.-Ing. (MSc equivalent) in Technical Physics"
     institution: "TU Wien"
     years: "10/2018 - 10/2021"
     thesis: "Postselection Strategies for CV-QKD Protocols with Phase-Shift Keying Modulation"
@@ -87,7 +87,7 @@ positions:
 
 
 honors:
-  - title: "Dieberger-Skalicky Grant"
+  - title: "Dieberger-Skalicky Grant for work on Quantum Communication"
     year: "2025"
     issuer: "Dieberger-Skalicky Foundation"
 
