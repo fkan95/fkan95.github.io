@@ -1,15 +1,13 @@
 ---
 layout: single
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: false
 classes: wide page--cv
 ---
 
-# Curriculum Vitae
 
 <!-- ======================== EDUCATION ======================== -->
-
 <div class="cv-box">
   <h2>Education</h2>
   {% for item in site.data.cv.education %}
@@ -33,9 +31,7 @@ classes: wide page--cv
   {% endfor %}
 </div>
 
-
 <!-- ======================== POSITIONS ======================== -->
-
 <div class="cv-box">
   <h2>Positions</h2>
   {% for pos in site.data.cv.positions %}
@@ -55,9 +51,7 @@ classes: wide page--cv
   {% endfor %}
 </div>
 
-
 <!-- ======================== HONORS ======================== -->
-
 <div class="cv-box">
   <h2>Honors & Awards</h2>
   {% for h in site.data.cv.honors %}
@@ -76,9 +70,7 @@ classes: wide page--cv
   {% endfor %}
 </div>
 
-
 <!-- ======================== PUBLICATIONS ======================== -->
-
 <div class="cv-box">
   <h2>Selected Publications</h2>
   {% for pub in site.data.cv.publications %}

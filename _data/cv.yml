@@ -2,6 +2,8 @@ education:
   - degree: "PhD in Technical Physics"
     institution: "TU Wien"
     years: "10/2022 - present"
+    thesis: "Quantum Communication beyond Qubits"
+    advisor: "Prof. Dr. Marcus Huber"
 
   - degree: "MSc in Technical Mathematics"
     institution: "TU Wien"
@@ -51,32 +53,38 @@ positions:
   - title: "Project Assistant/PhD Candidate"
     institution: "TU Wien, Atominstitut"
     years: "10/2022-present"
+    comment: "Research on high-dimensional (HD) entanglement and security of HD-QKD protocols."
 
   - title: "Scientist"
     institution: "AIT - Austrian Institute of Technology"
     years: "10/2025-present"
+    comment: "Work for a large European satellite QKD project and contributions to European QKD standardisation." 
 
   - title: "Lecturer"
     institution: "University of Applied Sciences, FH Technikum Wien"
     years: "01/2025 - present"
+    comment: "Design of two newly established courses on Quantum Communication, teaching classes on Quantum Communication."
 
   - title: "Junior Scientist"
     institution: "AIT - Austrian Institute of Technology"
     years: "10/2022-09/2025"
+    comment: "Research on Continuous-Variable and Multi-User Quantum Key Distribution."
 
   - title: "Graduate Researcher"
     institution: "Institute for Quantum Computing/University of Waterloo"
     years: "01/2022-08/2022"
+    comment: "Research on finite-size security of CV-QKD protocols in the OQCT Group of Prof. Norbert Lütkenhaus."
 
   - title: "Consultant"
     institution: "AIT - Austrian Institute of Technology"
     years: "09/2021 - 12/2021"
+    comment: "Consulting work on the security of Quantum Key Distribution protocols."
 
   - title: "Teaching Assistant"
     institution: "TU Wien, Institute for Calculus and Scientific Computing"
     years: "10/2016 - 02/2021"
+    comment: "Teaching Linear Algebra, Calculus II, and Practical Mathematics II exercise classes, preparing and marking tests, and providing didactically prepared solutions.
 
-    
 
 honors:
   - title: "Dieberger-Skalicky Grant"
@@ -94,6 +102,14 @@ honors:
   - title: "Dean's List - Scholarship for Outstanding Academic Achievement"
     year: "2021"
     issuer: "TU Wien, Faculty of Mathematics"
+
+  - title: "Bronze Medal at the 45th International Physics Olympiad"
+    year: "2014"
+    issuer: "Astana, Kazakhstan"
+
+  - title: "Honorable Mention at the 44th International Physics Olympiad"
+    year: "2013"
+    issuer: "Copenhagen, Denmark"
 
 publications:
   - title: "Title of My Paper"
