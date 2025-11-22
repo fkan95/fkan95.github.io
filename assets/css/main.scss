@@ -1,3 +1,20 @@
+---
+---
+
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+
+/* Make CV page full width */
+.page--cv .page__content {
+  max-width: 100% !important;
+}
+
+/* Make the CV use smaller font size */
+.page--cv .page__content {
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
 /* CV “box-style” cards */
 .cv-box {
   background: #f9f9f9;
@@ -20,7 +37,3 @@
   border-bottom: 1px solid #ccc;
   padding-bottom: 0.3em;
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> parent of d8e3a17 (fix width)
