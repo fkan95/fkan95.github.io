@@ -11,13 +11,20 @@ classes: wide page--cv
   <h2>Current Positions</h2>
   {% for pos in site.data.cv.positions %}
     {% if pos.current %}
-      <div class="cv-entry cv-2col">
-        <div class="cv-left">{{ pos.years }}</div>
-        <div class="cv-right">
-          <strong>{{ pos.title }}</strong><br>
-          <em>{{ pos.institution }}</em><br>
-          {% if pos.comment %}{{ pos.comment }}{% endif %}
+      <div class="cv-entry-grid">
+
+        <!-- Left column: Years -->
+        <div class="cv-entry-year">
+          {{ pos.years }}
         </div>
+
+        <!-- Right column: Details -->
+        <div class="cv-entry-details">
+          <strong>{{ pos.title }}</strong><br>
+          <em>{{ pos.institution }}</em>
+          {% if pos.comment %}<br>{{ pos.comment }}{% endif %}
+        </div>
+
       </div>
     {% endif %}
   {% endfor %}
@@ -27,13 +34,20 @@ classes: wide page--cv
   <h2>Previous Positions</h2>
   {% for pos in site.data.cv.positions %}
     {% unless pos.current %}
-      <div class="cv-entry cv-2col">
-        <div class="cv-left">{{ pos.years }}</div>
-        <div class="cv-right">
-          <strong>{{ pos.title }}</strong><br>
-          <em>{{ pos.institution }}</em><br>
-          {% if pos.comment %}{{ pos.comment }}{% endif %}
+      <div class="cv-entry-grid">
+
+        <!-- Left column: Years -->
+        <div class="cv-entry-year">
+          {{ pos.years }}
         </div>
+
+        <!-- Right column: Details -->
+        <div class="cv-entry-details">
+          <strong>{{ pos.title }}</strong><br>
+          <em>{{ pos.institution }}</em>
+          {% if pos.comment %}<br>{{ pos.comment }}{% endif %}
+        </div>
+
       </div>
     {% endunless %}
   {% endfor %}
