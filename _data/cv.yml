@@ -2,11 +2,13 @@ education:
   - degree: "PhD in Technical Physics"
     institution: "TU Wien"
     years: "10/2022-now"
+
   - degree: "MSc in Technical Mathematics"
     institution: "TU Wien"
     years: "10/2020-10/2022"
     thesis: "Finite-Size Security Proof for Discrete-Modulated CV-QKD Protocols"
     advisor: "Prof. Dr. Norbert Lütkenhaus"
+    comment: "Passed with distinction."
 
   - degree: "Visiting Graduate Researcher"
     institution: "Institute for Quantum Computing/University of Waterloo"
@@ -18,20 +20,31 @@ education:
     years: "10/2018-10/2021"
     thesis: "Postselection Strategies for CV-QKD Protocols with Phase-Shift Keying Modulation"
     advisor: "Priv. Doz. Martin Suda and Dr. Christoph Pacher"
+    comment: "Passed with distinction."
+
+  - degree: "TASSEP Exchange"
+    institution: "University of Calgary"
+    years: "09/2020 - 04/2021"
+    comment: "GPA: 4.0/4.0"
+
   - degree: "BSc in Technical Mathematics"
     institution: "TU Wien"
     years: "10/2016-07/2020"
     thesis: "Mathematical Analysis of an Optimisation Problem arising in Quantum Communication"
     advisor: "Prof. Dr. Kevin Sturm"
+    comment: "Passed with distinction."
+
   - degree: "BSc in Technical Physics"
     institution: "TU Wien"
     years: "10/2014-05/2018"
     thesis: "Examination and Animation of a Quantum Bouncing Ball in Phase Space"
     advisor: "Prof. Dr. Hartmut Abele"
+    comment: "Passed with distinction."
 
   - degree: "High-School Diploma"
     institution: "HTBLA Eisenstadt"
     years: "09/2009-06/2014"
+    comment: "Passed with distinction."
 
 
 positions:
@@ -54,6 +67,18 @@ honors:
   - title: "Dieberger-Skalicky Grant"
     year: "2025"
     issuer: "Dieberger-Skalicky Foundation"
+
+  - title: "City of Vienna Thesis Prize"
+    year: "2024"
+    issuer: "City of Vienna"
+  
+  - title: "Dean's List - Scholarship for Outstanding Academic Achievement"
+    year: "2015-2020"
+    issuer: "TU Wien, Faculty of Physics"
+
+  - title: "Dean's List - Scholarship for Outstanding Academic Achievement"
+    year: "2021"
+    issuer: "TU Wien, Faculty of Mathematics"
 
 publications:
   - title: "Title of My Paper"

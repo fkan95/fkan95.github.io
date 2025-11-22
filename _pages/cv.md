@@ -12,10 +12,10 @@ classes: wide page--cv
   <h2>Education</h2>
   {% for item in site.data.cv.education %}
     <div class="cv-entry">
-      <strong>{{ item.degree }}</strong>, *{{ item.institution }}* — {{ item.years }}
+      {{ item.years }} - <strong>{{ item.degree }}</strong>, <em>{{ item.institution }}<\em> 
       {% if item.thesis %}<br><em>Thesis:</em> {{ item.thesis }}{% endif %}
       {% if item.advisor %}<br><em>Advisor:</em> {{ item.advisor }}{% endif %}
-      {% if item.comment %}<br><em>Comment:</em> {{ item.comment }}{% endif %}
+      {% if item.comment %}{{ item.comment }}{% endif %}
     </div>
   {% endfor %}
 </div>
@@ -24,7 +24,7 @@ classes: wide page--cv
   <h2>Positions</h2>
   {% for pos in site.data.cv.positions %}
     <div class="cv-entry">
-      <strong>{{ pos.title }}</strong>, *{{ pos.institution }}* — {{ pos.years }}
+     {{ pos.years }} - <strong>{{ pos.title }}</strong>, <em>{{ pos.institution }}<\em>
     </div>
   {% endfor %}
 </div>
@@ -33,7 +33,7 @@ classes: wide page--cv
   <h2>Honors & Awards</h2>
   {% for h in site.data.cv.honors %}
     <div class="cv-entry">
-      - <strong>{{ h.title }}</strong>, {{ h.issuer }}, {{ h.year }}
+      - {{ h.year }} <strong>{{ h.title }}</strong>, {{ h.issuer }} 
     </div>
   {% endfor %}
 </div>
