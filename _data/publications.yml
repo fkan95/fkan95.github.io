@@ -51,7 +51,7 @@ preprints:
   - year: 2024
     title: "Composable free-space continuous-variable quantum key distribution using discrete modulation"
     authors: "K. Jaksch, T. Dirmeier, Y. Weiser, S. Richter, Ö. Bayraktar, B. Hacker, C. Rösler, I. Khan, S. Petscharning, T. Grafenauer, M. Hentschel, B. Ömer, C. Pacher, <strong>F. Kanitschar</strong>, T. Upadhyaya, J. Lin, N. Lütkenhaus, G. Leuchs, and C. Marquardt"
-    arxiv: "2410.12915[quant-ph]"
+    arxiv: "2410.12915 [quant-ph]"
     url: "https://arxiv.org/abs/2410.12915"
 
   - year: 2025
