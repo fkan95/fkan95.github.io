@@ -1,5 +1,5 @@
 ---
-title: "Hyperspace Webinar"
+title: "Paper Published"
 date: 2025-11-10
 categories:
   - paper
