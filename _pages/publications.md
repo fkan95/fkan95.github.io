@@ -6,8 +6,6 @@ author_profile: false
 classes: wide page--cv
 ---
 
-# Publications
-
 <div class="cv-box">
   <h2>Peer-reviewed Articles</h2>
   {% for pub in site.data.publications.peer_reviewed %}
