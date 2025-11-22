@@ -1,21 +1,11 @@
----
----
-
-@import "minimal-mistakes/skins/default";
-@import "minimal-mistakes";
-
 /* Make CV page full width */
 .page--cv .page__content {
   max-width: 100% !important;
-}
-
-/* Make the CV use smaller font size */
-.page--cv .page__content {
-  font-size: 0.9rem;
+  font-size: 0.9rem;      /* adjust size freely */
   line-height: 1.45;
 }
 
-/* CV “box-style” cards */
+/* Box styling */
 .cv-box {
   background: #f9f9f9;
   border: 1px solid #ddd;
@@ -25,9 +15,24 @@
   box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
 
-/* Entry inside each box */
-.cv-entry {
-  margin-bottom: 1em;
+/* Two-column aligned layout */
+.cv-entry-grid {
+  display: grid;
+  grid-template-columns: 160px 1fr;   /* Adjust width of left column here */
+  column-gap: 1.5rem;
+  margin-bottom: 1.2rem;
+}
+
+/* Left column (years) */
+.cv-entry-year {
+  text-align: right;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* Right column */
+.cv-entry-details {
+  line-height: 1.35;
 }
 
 .cv-box h2 {
