@@ -45,6 +45,25 @@ classes: wide page--cv
 </div>
 
 <div class="cv-box">
+  <h2>Theses</h2>
+  {% for pub in site.data.publications.theses %}
+    <div class="cv-entry cv-2col">
+      <div class="cv-left">{{ pub.year }}</div>
+      <div class="cv-right">
+        {% if pub.url %}
+          <a href="{{ pub.url }}"><strong>{{ pub.title }}</strong></a>
+        {% else %}
+          <strong>{{ pub.title }}</strong>
+        {% endif %}
+        <br>
+        <em>{{ pub.authors }}</em><br>        
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+
+<div class="cv-box">
   <h2>Talks</h2>
   {% for talk in site.data.publications.talks %}
     <div class="cv-entry cv-2col">

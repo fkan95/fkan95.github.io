@@ -1,25 +1,117 @@
 peer_reviewed:
   - year: 2022
     title: "Optimizing Continuous-Variable Quantum Key Distribution with Phase-Shift Keying Modulation and Postselection"
-    authors: "F. Kanitschar, and C. Pacher"
+    authors: "<strong>F. Kanitschar</strong>, and C. Pacher"
     journal: "Physical Review Applied 18 (3), 034073"
     url: "https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.034073"
 
   - year: 2023
     title: "Lipschitz continuity of quantum-classical conditional entropies with respect to angular distance and related properties"
-    authors: "M.L. Liu, F. Kanitschar, A. Arquandt, and E.Y.Z. Tan"
+    authors: "M.L. Liu, <strong>F. Kanitschar</strong>, A. Arquandt, and E.Y.Z. Tan"
     journal: "Physical Review A 107 (2), 022426"
     url: "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.022426"
 
+  - year: 2023
+    title: "Finite-size Security for Discrete-Modulated Continuous-Variable Quantum Key Distribution Protocols"
+    authors: "<strong>F. Kanitschar</strong>, I. George, J. Lin, T. Upadhyaya, and N. Lütkenhaus"
+    journal: "PRX Quantum 4 (4), 040306"
+    url: "https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.040306"
+
+  - year: 2024
+    title: "Harnessing high-dimensional temporal entanglement using limited interferometric setups"
+    authors: "<strong>F. Kanitschar</strong>, A. Bergmayr-Mann, M. Pivoluska, and M. Huber"
+    journal: "Physical Review Applied 22 (5), 054054"
+    url: "https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.22.054054"
+
+  - year: 2025
+    title: "Practical Framework for Analyzing High-Dimensional Quantum Key Distribution Setups"
+    authors: "<strong>F. Kanitschar</strong>, and M. Huber"
+    journal: "Physical Review Letters 135 (1), 010802"
+    url: "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.135.010802"
+
+  - year: 2025
+    title: "Experimental composable key distribution using discrete-modulated continuous variable quantum cryptography"
+    authors: "A.A.E. Hajomer, <strong>F. Kanitschar</strong>, N. Jain, M. Hentschel, R. Zhang,  N. Lütkenhaus, U.L. Andersen, C. Pacher, and T. Gehring"
+    journal: "Light: Science & Applications 14 (1), 255"
+    url: "https://www.nature.com/articles/s41377-025-01924-9"
+
+  - year: 2025
+    title: "Composable finite-size security of high-dimensional quantum-key-distribution protocols"
+    authors: "<strong>F. Kanitschar</strong>, and M. Huber"
+    journal: "Physical Review Applied 24 (5), 054028"
+    url: "https://journals.aps.org/prapplied/pdf/10.1103/v51y-vkfr"
+
 preprints:
   - year: 2024
+    title: "Composable Continuous-Variable Multi-User QKD with Discrete Modulation: Theory and Implementation"
+    authors: "<strong>F. Kanitschar</strong>, A. A. E. Hajomer, M. Hentschel, T. Gehring, and C. Pacher"
+    arXiv: "2406:14610 [quant-ph]"
+    url: "https://arxiv.org/abs/2406.14610"
+
+  - year: 2024
     title: "Composable free-space continuous-variable quantum key distribution using discrete modulation"
-    authors: "K. Jaksch, T. Dirmeier, Y. Weiser, S. Richter, Ö. Bayraktar, B. Hacker, C. Rösler, I. Khan, S. Petscharning, T. Grafenauer, M. Hentschel, B. Ömer, C. Pacher, F. Kanitschar, T. Upadhyaya, J. Lin, N. Lütkenhaus, G. Leuchs, and C. Marquardt"
-    arxiv: "2410.12915"
+    authors: "K. Jaksch, T. Dirmeier, Y. Weiser, S. Richter, Ö. Bayraktar, B. Hacker, C. Rösler, I. Khan, S. Petscharning, T. Grafenauer, M. Hentschel, B. Ömer, C. Pacher, <strong>F. Kanitschar</strong>, T. Upadhyaya, J. Lin, N. Lütkenhaus, G. Leuchs, and C. Marquardt"
+    arxiv: "2410.12915[quant-ph]"
     url: "https://arxiv.org/abs/2410.12915"
+
+  - year: 2025
+    title: "Gigabit-rate quantum key distribution on integrated photonic chips"
+    authors: "S. Q. Ng, <strong>F. Kanitschar</strong>, G. Zhang, and C. Wang"
+    arXiv: "2504:08298 [quant-ph]"
+    url: "https://arxiv.org/abs/2504.08298"
+
+  - year: 2025
+    title: "Continuous-Variable Quantum Communication"
+    authors: "V.C. Usenko,  A. Acín, R. Alléaume, U.L. Andersen, E. Diamanti, T. Gehring, A.A.E. Hajomer, <strong>F. Kanitschar</strong>, C. Pacher, S. Pirandola, and V. Pruneri"
+    arXiv: "2501.12801 [quant-ph]"
+    url: "https://arxiv.org/abs/2501.12801"
+
+
+theses:
+  - year: 2021
+    title: "Postselection Strategies for CV-QKD protocols with Phase-Shift Keying Modulation"
+    authors: "<strong>F. Kanitschar</strong>"
+    url: "https://repositum.tuwien.at/handle/20.500.12708/18394"
+
+  - year: 2022
+    title: "Finite-Size Security Proof for Discrete-Modulated CV-QKD Protocols"
+    authors: "<strong>F. Kanitschar</strong>"
+    url: "https://repositum.tuwien.at/handle/20.500.12708/136293"
+
+
 
 talks:
   - year: 2023
     title: "Bounding Dimensions by Statistical Testing"
     event: "Security Proof Workshop"
     location: "University of Waterloo, Waterloo, Canada"
+
+  - year: 2024
+    title: "Numerical Security Proof Framework extended to Multi-User DM CV-QKD"
+    event: "Security Proof Workshop"
+    location: "University of Waterloo, Waterloo, Canada"
+
+  - year: 2024
+    title: "High-Dimensional QKD"
+    event: "Security Proof Workshop"
+    location: "University of Waterloo, Waterloo, Canada"
+
+  - year: 2025
+    title: "High-Dimensional Quantum Key Distribution"
+    event: "FAU LMQ Talk"
+    location: "Friedrich Alexanders Universität und Max Planck Institut Erlangen, Germany"
+
+  - year: 2025
+    title: "Finite-Size Security Proof for DM CV-QKD Protocols"
+    event: "FAU LMQ Talk"
+    location: "Friedrich Alexanders Universität und Max Planck Institut, Erlangen, Germany"
+
+  - year: 2025
+    title: "A Framework for the Security Analysis of Practical High-Dimensional QKD Setups"
+    event: "Joint Annual Meeting ÖPG and SPS "
+    location: "University of Vienna, Vienna, Austria"
+
+  - year: 2025
+    title: "A Framework for the Security Analysis of Practical High-Dimensional QKD Setups"
+    event: "QCrypt 2025"
+    location: "Sanya, Hainan, PR China"
