@@ -54,36 +54,43 @@ positions:
     institution: "TU Wien, Atominstitut"
     years: "10/2022 - present"
     comment: "Research on high-dimensional (HD) entanglement and security of HD-QKD protocols in the group of Prof. Marcus Huber."
+    current: true
 
   - title: "Scientist"
     institution: "AIT - Austrian Institute of Technology"
     years: "10/2025 - present"
     comment: "Work for a large European satellite QKD project and contributions to European QKD standardisation." 
+    current: true
 
   - title: "Lecturer"
     institution: "University of Applied Sciences, FH Technikum Wien"
     years: "01/2025 - present"
     comment: "Design of two newly established courses on Quantum Communication, teaching classes on Quantum Communication."
+    current: true
 
   - title: "Junior Scientist"
     institution: "AIT - Austrian Institute of Technology"
     years: "10/2022 - 09/2025"
     comment: "Research on Continuous-Variable and Multi-User Quantum Key Distribution."
+    current: false
 
   - title: "Graduate Researcher"
     institution: "Institute for Quantum Computing/University of Waterloo"
     years: "01/2022 - 08/2022"
     comment: "Research on finite-size security of CV-QKD protocols in the OQCT Group of Prof. Norbert Lütkenhaus."
+    current: false
 
   - title: "Consultant"
     institution: "AIT - Austrian Institute of Technology"
     years: "09/2021 - 12/2021"
     comment: "Consulting work on the security of Quantum Key Distribution protocols."
+    current: false
 
   - title: "Teaching Assistant"
     institution: "TU Wien, Institute for Calculus and Scientific Computing"
     years: "10/2016 - 02/2021"
     comment: "Teaching Linear Algebra, Calculus II, and Practical Mathematics II exercise classes, preparing and marking tests, and providing didactically prepared solutions."
+    current: false
 
 
 honors:

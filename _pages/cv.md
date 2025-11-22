@@ -8,21 +8,34 @@ classes: wide page--cv
 
 <!-- ======================== POSITIONS ======================== -->
 <div class="cv-box">
-  <h2>Positions</h2>
+  <h2>Current Positions</h2>
   {% for pos in site.data.cv.positions %}
-    <div class="cv-entry-grid">
-
-      <div class="cv-entry-year">
-        {{ pos.years }}
+    {% if pos.current %}
+      <div class="cv-entry cv-2col">
+        <div class="cv-left">{{ pos.years }}</div>
+        <div class="cv-right">
+          <strong>{{ pos.title }}</strong><br>
+          <em>{{ pos.institution }}</em><br>
+          {% if pos.comment %}{{ pos.comment }}{% endif %}
+        </div>
       </div>
+    {% endif %}
+  {% endfor %}
+</div>
 
-      <div class="cv-entry-details">
-        <strong>{{ pos.title }}</strong><br>
-        <em>{{ pos.institution }}</em>
-        {% if pos.comment %}<br>{{ pos.comment }}{% endif %}
+<div class="cv-box">
+  <h2>Previous Positions</h2>
+  {% for pos in site.data.cv.positions %}
+    {% unless pos.current %}
+      <div class="cv-entry cv-2col">
+        <div class="cv-left">{{ pos.years }}</div>
+        <div class="cv-right">
+          <strong>{{ pos.title }}</strong><br>
+          <em>{{ pos.institution }}</em><br>
+          {% if pos.comment %}{{ pos.comment }}{% endif %}
+        </div>
       </div>
-
-    </div>
+    {% endunless %}
   {% endfor %}
 </div>
 
