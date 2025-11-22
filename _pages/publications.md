@@ -8,7 +8,7 @@ classes: wide page--cv
 
 <div class="cv-box">
   <h2>Peer-reviewed Articles</h2>
-  {% for pub in site.data.publications.peer_reviewed %}
+  {% for pub in site.data.publications.peer_reviewed | sort: 'year' | reverse %}
     <div class="cv-entry cv-2col">
       <div class="cv-left">{{ pub.year }}</div>
       <div class="cv-right">
@@ -27,7 +27,7 @@ classes: wide page--cv
 
 <div class="cv-box">
   <h2>Preprints</h2>
-  {% for pub in site.data.publications.preprints %}
+  {% for pub in site.data.publications.preprints | sort: 'year' | reverse %}
     <div class="cv-entry cv-2col">
       <div class="cv-left">{{ pub.year }}</div>
       <div class="cv-right">
@@ -46,7 +46,7 @@ classes: wide page--cv
 
 <div class="cv-box">
   <h2>Theses</h2>
-  {% for pub in site.data.publications.theses %}
+  {% for pub in site.data.publications.theses | sort: 'year' | reverse %}
     <div class="cv-entry cv-2col">
       <div class="cv-left">{{ pub.year }}</div>
       <div class="cv-right">
@@ -65,7 +65,7 @@ classes: wide page--cv
 
 <div class="cv-box">
   <h2>Talks</h2>
-  {% for talk in site.data.publications.talks %}
+  {% for talk in site.data.publications.talks | sort: 'year' | reverse %}
     <div class="cv-entry cv-2col">
       <div class="cv-left">{{ talk.year }}</div>
       <div class="cv-right">
