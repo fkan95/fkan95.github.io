@@ -1,7 +1,7 @@
 education:
   - degree: "PhD in Technical Physics"
     institution: "TU Wien"
-    years: "10/2022-now"
+    years: "10/2022 - present"
 
   - degree: "MSc in Technical Mathematics"
     institution: "TU Wien"
@@ -48,18 +48,33 @@ education:
 
 
 positions:
-  - title: "PhD Candidate"
+  - title: "Project Assistant/PhD Candidate"
     institution: "TU Wien, Atominstitut"
-    years: "10/2022-now"
+    years: "10/2022-present"
+
   - title: "Scientist"
     institution: "AIT - Austrian Institute of Technology"
     years: "10/2025-present"
+
+  - title: "Lecturer"
+    institution: "University of Applied Sciences, FH Technikum Wien"
+    years: "01/2025 - present"
+
   - title: "Junior Scientist"
     institution: "AIT - Austrian Institute of Technology"
     years: "10/2022-09/2025"
+
   - title: "Graduate Researcher"
     institution: "Institute for Quantum Computing/University of Waterloo"
     years: "01/2022-08/2022"
+
+  - title: "Consultant"
+    institution: "AIT - Austrian Institute of Technology"
+    years: "09/2021 - 12/2021"
+
+  - title: "Teaching Assistant"
+    institution: "TU Wien, Institute for Calculus and Scientific Computing"
+    years: "10/2016 - 02/2021"
 
     
 

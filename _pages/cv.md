@@ -12,7 +12,7 @@ classes: wide page--cv
   <h2>Education</h2>
   {% for item in site.data.cv.education %}
     <div class="cv-entry">
-      {{ item.years }} - <strong>{{ item.degree }}</strong>, <em>{{ item.institution }}<\em> 
+      {{ item.years }} - <strong>{{ item.degree }}</strong>, <em>{{ item.institution }}</em> 
       {% if item.thesis %}<br><em>Thesis:</em> {{ item.thesis }}{% endif %}
       {% if item.advisor %}<br><em>Advisor:</em> {{ item.advisor }}{% endif %}
       {% if item.comment %}{{ item.comment }}{% endif %}
@@ -24,7 +24,9 @@ classes: wide page--cv
   <h2>Positions</h2>
   {% for pos in site.data.cv.positions %}
     <div class="cv-entry">
-     {{ pos.years }} - <strong>{{ pos.title }}</strong>, <em>{{ pos.institution }}<\em>
+     {{ pos.years }} - <strong>{{ pos.title }}</strong>, <em>{{ pos.institution }}</em>
+     {% if pos.comment %}{{ pos.comment }}{% endif %}
+
     </div>
   {% endfor %}
 </div>
