@@ -23,6 +23,7 @@ classes: wide page--cv
       </div>
     </div>
   {% endfor %}
+<p><em>* Joint first authorship.</em></p>
 </div>
 
 <div class="cv-box">
@@ -44,6 +45,8 @@ classes: wide page--cv
   {% endfor %}
 </div>
 
+
+
 <div class="cv-box">
   <h2>Theses</h2>
   {% for pub in site.data.publications.theses | sort: 'year' | reverse %}
@@ -61,6 +64,7 @@ classes: wide page--cv
     </div>
   {% endfor %}
 </div>
+
 
 
 <div class="cv-box">
