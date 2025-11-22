@@ -93,7 +93,7 @@ talks:
     location: "University of Waterloo, Waterloo, Canada"
 
   - year: 2024
-    title "Multi-User Quantum Key Distribution with Discrete Modulated Continuous Variables"
+    title: "Multi-User Quantum Key Distribution with Discrete Modulated Continuous Variables"
     event: "VCQ Colloquium"
     location: "Vienna, Austria"
 
@@ -129,9 +129,3 @@ talks:
 
 
 
-
-test_papers:
-  - year: 2020
-    title: "Old Paper"
-  - year: 2022
-    title: "New Paper"
