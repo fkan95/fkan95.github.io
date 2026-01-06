@@ -1,9 +1,10 @@
 education:
   - degree: "PhD in Technical Physics"
     institution: "TU Wien"
-    years: "10/2022 - present"
+    years: "10/2022 - 12/2025"
     thesis: "Quantum Communication beyond Qubits"
     advisor: "Prof. Dr. Marcus Huber"
+    comment: "Passed with distinction."
 
   - degree: "Dipl.-Ing. (MSc equivalent) in Technical Mathematics"
     institution: "TU Wien"
@@ -50,7 +51,7 @@ education:
 
 
 positions:
-  - title: "Project Assistant/PhD Candidate"
+  - title: "Project Assistant"
     institution: "TU Wien, Atominstitut"
     years: "10/2022 - present"
     comment: "Research on high-dimensional (HD) entanglement and security of HD-QKD protocols in the group of Prof. Marcus Huber."
