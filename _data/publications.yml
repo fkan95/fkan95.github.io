@@ -68,7 +68,7 @@ preprints:
 
   - year: 2026
     title: "Bright Source of High-Dimensional Temporal Entanglement"
-    authors: "D. Schiffer, R. Kindler, A. Bergmayr-Mann, F. Kanitschar, A. Babazadeh, P. Erker, M. Huber, and A. Zeilinger"
+    authors: "D. Schiffer, R. Kindler, A. Bergmayr-Mann, <strong>F. Kanitschar</strong>, A. Babazadeh, P. Erker, M. Huber, and A. Zeilinger"
     arxiv: "2601.07678 [quant-ph]"
     url: "https://arxiv.org/abs/2601.07678"
 
