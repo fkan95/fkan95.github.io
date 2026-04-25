@@ -73,11 +73,6 @@ preprints:
     arxiv: "2601.07678 [quant-ph]"
     url: "https://arxiv.org/abs/2601.07678"
 
-  - year: 2026
-    title: "High-dimensional quantum communication with scalable photonic entanglement in time and frequency"
-    authors: "K-.C. Chang, M. Sarihan, N. Li, <strong>F. Kanitschar </strong>, K. Akyuz, Y. Chen, D.-I. Lee, J. Kang, A. Aldhafeeri, A. Mueller, M. Shaw, B. Korzh, M. Spiropulu, P. Erker, M. Huber, C. Wong"
-    arXiv: "arXiv:2603.18212 [quant-ph]"
-    url: "https://arxiv.org/abs/2603.18212"
 
 theses:
   - year: 2021
