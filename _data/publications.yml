@@ -41,6 +41,13 @@ peer_reviewed:
     journal: "Physical Review Applied 24 (5), 054028"
     url: "https://journals.aps.org/prapplied/pdf/10.1103/v51y-vkfr"
 
+  - year: 2026
+    title: "Continuous-Variable Quantum Communication"
+    authors: "V.C. Usenko,  A. Acín, R. Alléaume, U.L. Andersen, E. Diamanti, T. Gehring, A.A.E. Hajomer, <strong>F. Kanitschar</strong>, C. Pacher, S. Pirandola, and V. Pruneri"
+    jornal: "Reviews of Modern Physics 98, 015003 "
+    url: "https://doi.org/10.1103/mgj7-t6d3"
+
+
 preprints:
   - year: 2024
     title: "Composable Continuous-Variable Multi-User QKD with Discrete Modulation: Theory and Implementation"
@@ -60,18 +67,17 @@ preprints:
     arxiv: "2504:08298 [quant-ph]"
     url: "https://arxiv.org/abs/2504.08298"
 
-  - year: 2025
-    title: "Continuous-Variable Quantum Communication"
-    authors: "V.C. Usenko,  A. Acín, R. Alléaume, U.L. Andersen, E. Diamanti, T. Gehring, A.A.E. Hajomer, <strong>F. Kanitschar</strong>, C. Pacher, S. Pirandola, and V. Pruneri"
-    arxiv: "2501.12801 [quant-ph]"
-    url: "https://arxiv.org/abs/2501.12801"
-
   - year: 2026
     title: "Bright Source of High-Dimensional Temporal Entanglement"
     authors: "D. Schiffer, R. Kindler, A. Bergmayr-Mann, <strong>F. Kanitschar</strong>, A. Babazadeh, P. Erker, M. Huber, and A. Zeilinger"
     arxiv: "2601.07678 [quant-ph]"
     url: "https://arxiv.org/abs/2601.07678"
 
+  - year: 2026
+    title: "High-dimensional quantum communication with scalable photonic entanglement in time and frequency"
+    authors: "K-.C. Chang, M. Sarihan, N. Li, <strong>F. Kanitschar <\strong>, K. Akyuz, Y. Chen, D.-I. Lee, J. Kang, A. Aldhafeeri, A. Mueller, M. Shaw, B. Korzh, M. Spiropulu, P. Erker, M. Huber, C. Wong"
+    arXiv: "arXiv:2603.18212 [quant-ph]"
+    url: "https://arxiv.org/abs/2603.18212"
 
 theses:
   - year: 2021
