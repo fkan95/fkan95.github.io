@@ -47,6 +47,11 @@ peer_reviewed:
     journal: "Reviews of Modern Physics 98, 015003 "
     url: "https://doi.org/10.1103/mgj7-t6d3"
 
+  - year: 2026
+    title: "Gigabit-rate quantum key distribution on integrated photonic chips"
+    authors: "S. Q. Ng, <strong>F. Kanitschar</strong>, G. Zhang, and C. Wang"
+    journal: "Optica"
+    url: "https://opg.optica.org/optica/abstract.cfm?URI=optica-13-6-1043"
 
 preprints:
   - year: 2024
@@ -60,12 +65,6 @@ preprints:
     authors: "K. Jaksch, T. Dirmeier, Y. Weiser, S. Richter, Ö. Bayraktar, B. Hacker, C. Rösler, I. Khan, S. Petscharning, T. Grafenauer, M. Hentschel, B. Ömer, C. Pacher, <strong>F. Kanitschar</strong>, T. Upadhyaya, J. Lin, N. Lütkenhaus, G. Leuchs, and C. Marquardt"
     arxiv: "2410.12915 [quant-ph]"
     url: "https://arxiv.org/abs/2410.12915"
-
-  - year: 2025
-    title: "Gigabit-rate quantum key distribution on integrated photonic chips"
-    authors: "S. Q. Ng, <strong>F. Kanitschar</strong>, G. Zhang, and C. Wang"
-    arxiv: "2504:08298 [quant-ph]"
-    url: "https://arxiv.org/abs/2504.08298"
 
   - year: 2026
     title: "Bright Source of High-Dimensional Temporal Entanglement"
