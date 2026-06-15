@@ -51,7 +51,13 @@ peer_reviewed:
     title: "Gigabit-rate quantum key distribution on integrated photonic chips"
     authors: "S. Q. Ng, <strong>F. Kanitschar</strong>, G. Zhang, and C. Wang"
     journal: "Optica 13 (6), 1043-1055"
-    url: "https://opg.optica.org/optica/abstract.cfm?URI=optica-13-6-1043"
+    url: "https://doi.org/10.1364/OPTICA.585571"
+
+  - year: 2026
+    title: "Composable free-space continuous-variable quantum key distribution using discrete modulation"
+    authors: "K. Jaksch, T. Dirmeier, Y. Weiser, S. Richter, Ö. Bayraktar, B. Hacker, C. Rösler, I. Khan, S. Petscharning, T. Grafenauer, M. Hentschel, B. Ömer, C. Pacher, <strong> F. Kanitschar </strong>, T. Upadhyaya, J. Lin, N. Lütkenhaus, G. Leuchs, and C. Marquardt"
+    journal: "Science Advances 12 (24), eadv1440"
+    url: "https://www.science.org/doi/abs/10.1126/sciadv.adv1440"
 
 preprints:
   - year: 2024
