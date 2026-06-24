@@ -67,14 +67,8 @@ preprints:
     url: "https://arxiv.org/abs/2406.14610"
 
   - year: 2026
-    title: "Bright Source of High-Dimensional Temporal Entanglement"
-    authors: "D. Schiffer, R. Kindler, A. Bergmayr-Mann, <strong>F. Kanitschar</strong>, A. Babazadeh, P. Erker, M. Huber, and A. Zeilinger"
-    arxiv: "2601.07678 [quant-ph]"
-    url: "https://arxiv.org/abs/2601.07678"
-
-  - year: 2026
     title: "Revealing high-dimensional entanglement through symmetry"
-    authors: "J. Webster, <strong>F. Kanitschar </strong>, E. Polino, S. J. U. White, S. Rogge, F. Ghafari, M. Huber, and N. Tischler"
+    authors: "J. Webster*, <strong>F. Kanitschar* </strong>, E. Polino, S. J. U. White, S. Rogge, F. Ghafari, M. Huber, and N. Tischler"
     arxiv: " arXiv:2606.23817 [quant-ph]"
     url: "https://arxiv.org/abs/2606.23817" 
     
@@ -83,7 +77,12 @@ preprints:
     authors: "K-.C. Chang, M. Sarihan, N. Li, <strong>F. Kanitschar </strong>, K. Akyuz, Y. Chen, D.-I. Lee, J. Kang, A. Aldhafeeri, A. Mueller, M. Shaw, B. Korzh, M. Spiropulu, P. Erker, M. Huber, and C. Wong"
     arxiv: "arXiv:2603.18212 [quant-ph]"
     url: "https://arxiv.org/abs/2603.18212"
-
+    
+  - year: 2026
+    title: "Bright Source of High-Dimensional Temporal Entanglement"
+    authors: "D. Schiffer, R. Kindler, A. Bergmayr-Mann, <strong>F. Kanitschar</strong>, A. Babazadeh, P. Erker, M. Huber, and A. Zeilinger"
+    arxiv: "2601.07678 [quant-ph]"
+    url: "https://arxiv.org/abs/2601.07678"
 
    
 
