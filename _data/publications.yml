@@ -59,6 +59,12 @@ peer_reviewed:
     journal: "Science Advances 12 (24), eadv1440"
     url: "https://www.science.org/doi/abs/10.1126/sciadv.adv1440"
 
+  - year: 2026
+    title: "High-dimensional quantum communication with scalable photonic entanglement in time and frequency"
+    authors: "K-.C. Chang, M. Sarihan, N. Li, <strong>F. Kanitschar </strong>, K. Akyuz, Y. Chen, D.-I. Lee, J. Kang, A. Aldhafeeri, A. Mueller, M. Shaw, B. Korzh, M. Spiropulu, P. Erker, M. Huber, and C. Wong"
+    arxiv: "Science Advances 12 (27), eaee1333"
+    url: "https://www.science.org/doi/full/10.1126/sciadv.aee1333"
+
 preprints:
   - year: 2024
     title: "Composable Continuous-Variable Multi-User QKD with Discrete Modulation: Theory and Implementation"
@@ -71,12 +77,6 @@ preprints:
     authors: "J. Webster*, <strong>F. Kanitschar* </strong>, E. Polino, S. J. U. White, S. Rogge, F. Ghafari, M. Huber, and N. Tischler"
     arxiv: " arXiv:2606.23817 [quant-ph]"
     url: "https://arxiv.org/abs/2606.23817" 
-    
-  - year: 2026
-    title: "High-dimensional quantum communication with scalable photonic entanglement in time and frequency"
-    authors: "K-.C. Chang, M. Sarihan, N. Li, <strong>F. Kanitschar </strong>, K. Akyuz, Y. Chen, D.-I. Lee, J. Kang, A. Aldhafeeri, A. Mueller, M. Shaw, B. Korzh, M. Spiropulu, P. Erker, M. Huber, and C. Wong"
-    arxiv: "arXiv:2603.18212 [quant-ph]"
-    url: "https://arxiv.org/abs/2603.18212"
     
   - year: 2026
     title: "Bright Source of High-Dimensional Temporal Entanglement"
