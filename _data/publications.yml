@@ -65,12 +65,14 @@ peer_reviewed:
     journal: "Science Advances 12 (27), eaee1333"
     url: "https://www.science.org/doi/full/10.1126/sciadv.aee1333"
 
-preprints:
-  - year: 2024
-    title: "Composable Continuous-Variable Multi-User QKD with Discrete Modulation: Theory and Implementation"
+  - year: 2026
+    title: "Composable continuous-variable multi-User QKD with discrete modulation: theory and implementation"
     authors: "<strong>F. Kanitschar</strong>, A. A. E. Hajomer, M. Hentschel, T. Gehring, and C. Pacher"
-    arxiv: "2406:14610 [quant-ph]"
-    url: "https://arxiv.org/abs/2406.14610"
+    journal: "Optica, Vol. 13, Issue 8, pp. 1563-1580 (2026)"
+    url: "https://doi.org/10.1364/OPTICA.588301"
+
+
+preprints:
 
   - year: 2026
     title: "Revealing high-dimensional entanglement through symmetry"
