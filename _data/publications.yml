@@ -75,6 +75,12 @@ peer_reviewed:
 preprints:
 
   - year: 2026
+    title: "Unconditional Security of Discrete-Modulated CV-QKD from Infinite-Dimensional MEAT"
+    authors: "L. Kamin, I. George, J. Burniston, and <strong>F. Kanitschar</strong>"
+    arxiv: "2609.16105 [quant-ph]"
+    url: "https://arxiv.org/abs/2609.16105"  
+
+  - year: 2026
     title: "Revealing high-dimensional entanglement through symmetry"
     authors: "J. Webster*, <strong>F. Kanitschar* </strong>, E. Polino, S. J. U. White, S. Rogge, F. Ghafari, M. Huber, and N. Tischler"
     arxiv: " 2606.23817 [quant-ph]"
@@ -86,7 +92,6 @@ preprints:
     arxiv: "2601.07678 [quant-ph]"
     url: "https://arxiv.org/abs/2601.07678"
 
-   
 
 theses:
   - year: 2021
