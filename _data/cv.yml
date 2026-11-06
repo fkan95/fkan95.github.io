@@ -51,28 +51,41 @@ education:
 
 
 positions:
-  - title: "Project Assistant"
-    institution: "TU Wien, Atominstitut"
-    years: "10/2022 - present"
-    comment: "Research on high-dimensional (HD) entanglement and security of HD-QKD protocols in the group of Prof. Marcus Huber."
-    current: true
 
   - title: "Scientist"
     institution: "AIT - Austrian Institute of Technology"
-    years: "10/2025 - present"
-    comment: "Work for a large European satellite QKD project and contributions to European QKD standardisation." 
+    years: "10/2026 - present"
+    comment: "Permanent position. Independent researcher on Quantum Information and Quantum Communication with a focus on Continuous-Variable QKD and high-dimensional QKD." 
     current: true
+    
+  - title: "Project Assistant (Post-Doc) [50%]"
+    institution: "TU Wien, Atominstitut"
+    years: "10/2022 - 09/2026"
+    comment: "Fixed-term contract. Working on high-dimensional (HD) entanglement and security of HD-QKD protocols, co-supervision of students."
+    current: false
+
+  - title: "Scientist [50%]"
+    institution: "AIT - Austrian Institute of Technology"
+    years: "10/2025 - 09/2026."
+    comment: "Fixed-term contract. Work for a large European satellite QKD project and contributions to European QKD standardisation." 
+    current: false
 
   - title: "Lecturer"
     institution: "University of Applied Sciences, FH Technikum Wien"
     years: "01/2025 - present"
-    comment: "Design of two newly established courses on Quantum Communication, teaching classes on Quantum Communication."
+    comment: "External Lecturer. Design of two newly established courses on Quantum Communication I and II, teaching classes on Quantum Communication."
     current: true
 
-  - title: "Junior Scientist"
+  - title: "Project Assistant (Pre-Doc) [50%]"
+    institution: "TU Wien, Atominstitut"
+    years: "10/2022 - 12/2025"
+    comment: "Fixed-term contract. Postdoc, working on high-dimensional (HD) entanglement and security of HD-QKD protocols in the group of Prof. Marcus Huber."
+    current: false
+
+  - title: "Junior Scientist [50%]"
     institution: "AIT - Austrian Institute of Technology"
-    years: "10/2022 - 09/2025"
-    comment: "Research on Continuous-Variable and Multi-User Quantum Key Distribution."
+    years: "09/2022 - 09/2025"
+    comment: "Fixed-term contract. Research on Continuous-Variable and Multi-User Quantum Key Distribution."
     current: false
 
   - title: "Graduate Researcher"
@@ -94,7 +107,7 @@ positions:
     current: false
 
 
-honors:
+honors:    
   - title: "Dieberger-Skalicky Grant for work on Quantum Communication"
     year: "2025"
     issuer: "Dieberger-Skalicky Foundation"
